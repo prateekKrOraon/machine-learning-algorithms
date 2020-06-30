@@ -1,3 +1,8 @@
+"""
+Author: Prateek Kumar Oraon
+Copyright Prateek Kumar Oraon, free to use under MIT License
+"""
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

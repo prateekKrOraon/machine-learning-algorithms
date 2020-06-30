@@ -1,3 +1,8 @@
+"""
+Author: Prateek Kumar Oraon
+Copyright Prateek Kumar Oraon, free to use under MIT License
+"""
+
 import pandas as pd
 
 
@@ -16,7 +21,7 @@ def find_s(dataset):
 
 
 def main():
-    dataset = pd.read_csv('wsce.csv')
+    dataset = pd.read_csv('weather.csv')
     s = find_s(dataset)
     print("Hypothesis")
     print(s)
