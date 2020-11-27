@@ -14,6 +14,8 @@
 * K-Means (1D data)   
 * K Nearest Neighbour
 * Naive Bayes Classifier
+* Deep Neural Network
+    * Cat vs Non-Cat classifier
 
 More will be added
 
